@@ -38,7 +38,7 @@ Którego można pobrać i zainstalować [stąd](https://git-scm.com/book/en/v2/G
 
 Ważne jest aby pliki op_console.py, godclass_n_aux.py i folder icons wszystkie znajdowały się w tym samym folderze.
 
-Teraz wystarczy przygotwać preferowane źródło danych i uruchomić plik op_console.py
+Teraz wystarczy przygotwać preferowane źródło danych i uruchomić plik op_console.py.
 Na Windowsie wystarczy kliknąć na plik w eksploratorze, na Ubuntu moża uruchomić go w terminalu za pomocą komendy
 ```bash
   python3 op_console.py
