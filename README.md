@@ -49,7 +49,7 @@ Aplikacja umożliwia sprecyzowanie adresu, z którego pochodzą dane oraz sortow
 Ze względu na ograniczenia tkintera pod względem renderowania plików html nie było możliwe załączenie mapy zachowując wybraną architekturę.
 
 ## Credits
-Ikony pochodzą z [thenounproject.com]
+Ikony pochodzą z <thenounproject.com>
 
 Attribution:
 - voice by Andrejs Kirma from the Noun Project
