@@ -50,13 +50,15 @@ Ze względu na ograniczenia tkintera pod względem renderowania plików html nie
 
 ## Credits
 Ikony pochodzą z thenounproject.com
+
 Attribution:
-voice by Andrejs Kirma from the Noun Project
-signal by nopixel from the Noun Project
-station by ghayn from the Noun Project
-Car by agus raharjo from the Noun Project
-Phone by Silviu Ojog from the Noun Project
-Car by Adrien Coquet from the Noun Project
-loading by DinosoftLab from the Noun Project
-terminal by Free Icons from the Noun Project
+-voice by Andrejs Kirma from the Noun Project
+-signal by nopixel from the Noun Project
+-station by ghayn from the Noun Project
+-Car by agus raharjo from the Noun Project
+-Phone by Silviu Ojog from the Noun Project
+-Car by Adrien Coquet from the Noun Project
+-loading by DinosoftLab from the Noun Project
+-terminal by Free Icons from the Noun Project
+
 Icons were cropped as permitted by the use license
