@@ -7,6 +7,7 @@ Do poprawnego działania wymagane będą też poniższe moduły:
 - tkinter oraz tkinter.messagebox
 - json
 - requests
+
 Zwykle są one instalowane razem z pythonem, ale zdarzają się wyjątki.
 #### Ubuntu
 Ubuntu nie wymaga instalacji pythona, ponieważ język instalowany jest wraz z systemem.
